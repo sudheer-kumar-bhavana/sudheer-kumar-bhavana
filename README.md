@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudheer Kumar Bhavana
 - 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning Block chain, Smart contract development using Solidity and building dapps using React, frameworks like Truffle etc...
+- 🌱 I’m currently learning Block chain, Smart contract development using Solidity and building dapps using React, smart contract frameworks like Truffle
 - 💞️ I’m looking to collaborate on Block chain projects
 - 📫 How to reach me ...
 
